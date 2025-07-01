@@ -6,7 +6,7 @@ Welcome to *TestVerse* – a full-stack software testing repository designed to 
 - 🤖 Automation Testing with Java & Selenium
 - 🔗 API Testing with Postman & REST Assured
 - 🗃 SQL Queries for Backend Validation
-- ⚙ CI/CD integration with GitHub Actions (optional)
+- ⚙ CI/CD integration with GitHub Actions
 - 🔍 Bug tracking and defect lifecycle documentation
 
 > Built with precision, passion, and the mindset of quality-first engineering.
